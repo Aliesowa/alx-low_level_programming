@@ -1,5 +1,3 @@
-es (20 sloc)  362 Bytes
-   
 #include "main.h"
 /**
  * _strcmp - compares two strings
