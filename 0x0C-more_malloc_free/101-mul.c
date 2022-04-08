@@ -87,3 +87,5 @@ if (argc != 3)
 print_int(_atoi(argv[1]) * _atoi(argv[2]));
 _putchar('\n');
 
+return (0);
+}
